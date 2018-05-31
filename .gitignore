@@ -1,0 +1,5 @@
+#global Ignore#
+#ignoring PDF Files#
+*.pdf
+#ignoring executable files#
+*.txt
